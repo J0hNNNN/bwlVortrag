@@ -1,0 +1,8 @@
+\select@language {ngerman}
+\beamer@sectionintoc {1}{Grundlagen}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Merkmale}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{\IeC {\"A}u\IeC {\ss }eres}{9}{0}{1}
+\beamer@sectionintoc {2}{Statistik}{13}{0}{2}
+\beamer@subsectionintoc {2}{1}{Mathe}{14}{0}{2}
+\beamer@subsectionintoc {2}{2}{Optik}{15}{0}{2}
+\beamer@sectionintoc {3}{Literatur}{17}{0}{3}
