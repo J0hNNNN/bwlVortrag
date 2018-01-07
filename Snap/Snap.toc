@@ -1,0 +1,3 @@
+\select@language {ngerman}
+\beamer@sectionintoc {1}{Grundlagen}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Merkmale}{3}{0}{1}
