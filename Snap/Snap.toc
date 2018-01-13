@@ -1,6 +1,7 @@
 \select@language {ngerman}
 \beamer@sectionintoc {1}{Einleitung}{3}{0}{1}
-\beamer@subsectionintoc {1}{1}{Merkmale}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Geschichte von Snap}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Merkmale}{4}{0}{1}
 \beamer@sectionintoc {2}{Hauptteil}{5}{0}{2}
 \beamer@subsectionintoc {2}{1}{Gr\IeC {\"u}nde f\IeC {\"u}r den Einstieg in die B\IeC {\"o}rse}{5}{0}{2}
 \beamer@sectionintoc {3}{Schluss}{7}{0}{3}
