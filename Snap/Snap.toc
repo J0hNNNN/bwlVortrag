@@ -1,11 +1,10 @@
 \select@language {ngerman}
-\beamer@sectionintoc {1}{Der B\IeC {\"o}rsengang}{3}{0}{1}
-\beamer@subsectionintoc {1}{1}{B\IeC {\"o}rsengang allgemein}{3}{0}{1}
+\beamer@sectionintoc {1}{allgemeiner Ablauf eines B\IeC {\"o}rsengangs}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Daten zu B\IeC {\"o}rseng\IeC {\"a}ngen}{3}{0}{1}
 \beamer@subsectionintoc {1}{2}{Gr\IeC {\"u}nde f\IeC {\"u}r den Einstieg in die B\IeC {\"o}rse}{8}{0}{1}
 \beamer@subsectionintoc {1}{3}{Ist das Unternehmen reif f\IeC {\"u}r die B\IeC {\"o}rse?}{10}{0}{1}
 \beamer@subsectionintoc {1}{4}{Auswahl der Emissionsbanken}{11}{0}{1}
 \beamer@sectionintoc {2}{Snap und sein B\IeC {\"o}rsengang}{12}{0}{2}
 \beamer@subsectionintoc {2}{1}{Geschichte von Snap}{12}{0}{2}
 \beamer@subsectionintoc {2}{2}{B\IeC {\"o}rse}{19}{0}{2}
-\beamer@sectionintoc {3}{Schluss}{20}{0}{3}
-\beamer@subsectionintoc {3}{1}{Fazit}{20}{0}{3}
+\beamer@sectionintoc {3}{Fazit}{20}{0}{3}
